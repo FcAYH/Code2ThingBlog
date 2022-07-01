@@ -3,6 +3,7 @@ title: 基于ESP32的电子墨水屏TodoList台历
 date: 2022-06-30 02:21:46
 tags: 墨水瓶
 categories: 从代码到实物
+cover: "https://cdn.jsdelivr.net/gh/FcAYH/Images/2022/06/30/inkScreen01.jpg"
 ---
 
 # 基于ESP32的电子墨水屏TodoList台历
@@ -31,8 +32,6 @@ categories: 从代码到实物
 
 <video src="https://cdn.jsdelivr.net/gh/FcAYH/Images/2022/06/30/inkScreen04.jpg"></video>
 
-
-
 ### 嵌入程序 并且优化
 
 向eps32中嵌入程序，功能含有天气查看、待办查看、新闻查看等。
@@ -53,6 +52,4 @@ categories: 从代码到实物
 
 展现视频
 
-
-[源开源连接]([GitHub - zhushengji/smart_desk_calendar_4in2ink_epd: 墨水屏多功能智能台历](https://github.com/zhushengji/smart_desk_calendar_4in2ink_epd))
-
+\[源开源连接\]([GitHub - zhushengji/smart_desk_calendar_4in2ink_epd: 墨水屏多功能智能台历](https://github.com/zhushengji/smart_desk_calendar_4in2ink_epd))

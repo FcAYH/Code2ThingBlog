@@ -5,16 +5,16 @@
 # Site
 title: 从代码到实物
 subtitle: ''
-description: ''
+description: '小组成员：尹恒 丁毅 龚傲林 吴凯'
 keywords:
-author: F_CIL
+author: 第2小组
 language: zh-Hans
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http:/114.96.96.116
-root: /
+url: http://www.mcper.cn/
+root: //
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

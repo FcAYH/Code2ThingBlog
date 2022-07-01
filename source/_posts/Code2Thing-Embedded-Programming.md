@@ -3,6 +3,7 @@ title: Code2thing：嵌入式编程作业
 date: 2022-06-30 02:04:50
 tags: 点灯
 categories: 从代码到实物
+cover: "https://cdn.jsdelivr.net/gh/FcAYH/Images/2022/06/30/light01.png"
 ---
 
 # Code2thing：嵌入式编程作业
@@ -278,7 +279,6 @@ void loop() {
   doWiFiTick();
   doTCPClientTick();
 }
-
 ```
 
 ## 效果展示
@@ -288,5 +288,3 @@ void loop() {
 ## 仓库地址
 
 [Yintel/Code2Thing2022Spring](https://gitee.com/yintel/code2-thing2022-spring)
-
-
